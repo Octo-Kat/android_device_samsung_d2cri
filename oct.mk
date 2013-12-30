@@ -12,6 +12,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="samsung/d2cri/d2cri:4.1.2/JZO54K/R530CVVBMD6:user/release-keys" \
     PRIVATE_BUILD_DESC="d2cri-user 4.1.2 JZO54K R530CVVBMD6 release-keys"
 
-PRODUCT_NAME := cm_d2cri
+PRODUCT_NAME := oct_d2cri
 PRODUCT_DEVICE := d2cri
 
