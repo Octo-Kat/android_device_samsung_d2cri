@@ -28,6 +28,3 @@
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2cri
-
-# Kernel
-TARGET_KERNEL_CONFIG    := d2_r530_defconfig
